@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_gabriel_a_ferretto_/)
 
 
-![Gabriel Aguiar stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox)
+![Gabriel Aguiar stats](https://github-readme-stats.vercel.app/api?username=Gabriel&show_icons=true&theme=gruvbox)
 
 ## Technologies I'm studying
 
