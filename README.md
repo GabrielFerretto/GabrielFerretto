@@ -1,6 +1,14 @@
 # Hello🖖 I'm Gabriel Aguiar 
 
+<br/>
+<div>
+  <p><i>
+    We can only see a little of the future, but enough to realize that there is much to do. <br/> 
+      -Alan Turing
+  </p>
+</div>
 
+<br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_gabriel_a_ferretto_/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-aguiar-aba731232)
