@@ -1,12 +1,14 @@
 # Hello🖖 I'm Gabriel Aguiar 
 
 <br/>
-<div>
+
+<div align="center" >
   <p><i>
     We can only see a little of the future, but enough to realize that there is much to do. <br/> 
       -Alan Turing
   </p>
 </div>
+
 
 <br/>
 
