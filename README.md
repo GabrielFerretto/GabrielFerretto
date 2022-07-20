@@ -3,10 +3,10 @@
 <br/>
 
 <div align="center" >
-  <p><i>
+  <h4><i>
     We can only see a little of the future, but enough to realize that there is much to do. <br/> 
       -Alan Turing
-  </p>
+  </h4>
 </div>
 
 
