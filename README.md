@@ -68,8 +68,6 @@
 <br/>
   
   
-  
-  
   <br/>
   
   ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=GabrielFerretto&repo=GabrielFerretto&countColorcountColor)
