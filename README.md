@@ -66,5 +66,12 @@
   <img align="center" alt="Duolingo" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" />    
  </div>
 <br/>
-
+  
+  
+  ![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+  
+  <br/>
+  
+  ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=GabrielFerretto&repo=GabrielFerretto&countColorcountColor)
+  
 ### 🧮 Passionate about mathematics and the universe of technology 🤖
