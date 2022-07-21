@@ -67,6 +67,7 @@
  </div>
 <br/>
   
+  ![snake animation](https://github.com/GabrielFerretto/GabrielFerretto/blob/output/github-contribution-grid-snake2.svg)
   
   <br/>
   
