@@ -19,8 +19,8 @@
 
 
 
-![Gabriel Aguiar stats](https://github-readme-stats.vercel.app/api?username=GabrielFerretto&show_icons=true&theme=highcontrast)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFerretto&layout=compact&theme=highcontrast" width="350"/>
+![Gabriel Aguiar stats](https://github-readme-stats.vercel.app/api?username=GabrielFerretto&show_icons=true&theme=merko)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFerretto&layout=compact&theme=merko" width="350"/>
 
 
 ## Programming Languages
@@ -66,10 +66,14 @@
   <img align="center" alt="Duolingo" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" />    
  </div>
 <br/>
+
+  <hr>
   
+  ## Commits
   ![snake animation](https://github.com/GabrielFerretto/GabrielFerretto/blob/output/github-contribution-grid-snake2.svg)
   
   <br/>
+  
   
   ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=GabrielFerretto&repo=GabrielFerretto&countColorcountColor)
   
